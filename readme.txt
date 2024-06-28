@@ -69,7 +69,7 @@ Despite the ease of use of the software, this open-source code is provided "as i
 
 Suggested Reference:
 -----------------------
-Tangdamrongsub, N., Beck, H., Dong, J. (2023) A step-by-step MATLAB implementation of GRACE and GRACE-FO satellite data assimilation for enhancing terrestrial hydrology analysis. Curerntly under reviewed by Computers and Geosciences.
+Tangdamrongsub, N., Beck, H., Dong, J. (2024) A step-by-step MATLAB implementation of GRACE and GRACE-FO satellite data assimilation for enhancing terrestrial hydrology analysis. Curerntly under reviewed by Computers and Geosciences.
 
 Author: 
 -----------------------
